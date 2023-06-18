@@ -3,13 +3,13 @@
 <h2 align="center">A compassionate, curious person.🥰</h2>
 <h3 align="center">A designer 🎨 and a coder 🧑‍💻. A ChatGPT, Midjourney, and Arch Linux enthusiast ;)</h3>
 
-- 🌱 I’m currently learning **UI/UX principles & techniques with Figma, React & React Native**
+- 🌱 I’m currently learning UI/UX principles & techniques with Figma, React & React Native
 
-- 💬 Ask me about **Arch Linux, ChatGPT/Midjourney, and Coding Community in Valencia, Spain!**
+- 💬 Ask me about Arch Linux, ChatGPT/Midjourney, and Coding Community in Valencia, Spain!
 
-- 📫 How to reach me **chouzaen2002@gmail.com | @itszaen on Telegram**
+- 📫 How to reach me: chouzaen2002@gmail.com | @itszaen on Telegram
 
-- ⚡ Fun fact **You cannot correctly guess my ethnicity! 😜**
+- ⚡ Fun fact: You cannot correctly guess my ethnicity! 😜
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
